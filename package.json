@@ -1,0 +1,19 @@
+{
+  "name": "ferramenta_testes_at",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielguasti/Ferramenta_testes_AT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielguasti/Ferramenta_testes_AT/issues"
+  },
+  "homepage": "https://github.com/danielguasti/Ferramenta_testes_AT#readme"
+}
